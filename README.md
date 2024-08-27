@@ -44,7 +44,8 @@ This project is a simple calculator program written in C for AVR microcontroller
 
 ### Circuit Diagram
 
-[Include an image or a link to the circuit diagram here]
+![Schematic & Wiring connection](URL-of-your-image)
+
 
 ### How It Works
 1) Initialization: The LCD and keypad are initialized.
