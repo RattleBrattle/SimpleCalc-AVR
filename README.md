@@ -44,7 +44,7 @@ This project is a simple calculator program written in C for AVR microcontroller
 
 ### Circuit Diagram
 
-![Schematic & Wiring connection](URL-of-your-image)
+![Schematic & Wiring connection](https://github.com/RattleBrattle/SimpleCalc-AVR/blob/main/Simple%20Schematic.png?raw=true)
 
 
 ### How It Works
@@ -53,7 +53,7 @@ This project is a simple calculator program written in C for AVR microcontroller
 3) Operand Entry: The user enters the first and second operands via the keypad.
 4) Calculation: The microcontroller performs the selected operation.
 5) Result Display: The result is displayed on the LCD screen.
---> Where each section is put into a function of It's own.
+--> Where each section is put into a function of it's own.
 
 ### Functions Overview
 - void CALC_init(void): Initializes the calculator startup screen.
